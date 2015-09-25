@@ -1,5 +1,5 @@
 # Pull base image.
-FROM ubuntu:14.04
+FROM anubisdocker/ubuntu:14.04
 
 # Install Java.
 RUN \
